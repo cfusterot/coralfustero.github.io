@@ -1,1 +1,1 @@
-
+Coral Fustero-Torre, PhD is a computational biologist researcher. Her work focuses on the use of computational approaches to reveal hidden molecular mechanisms and dynamics within  complex cellular systems. She has specialized in single-cell sequencing technologies and the development of data-driven approaches to understand biological complexity and evolution.
